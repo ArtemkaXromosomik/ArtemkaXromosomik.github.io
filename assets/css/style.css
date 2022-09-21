@@ -92,3 +92,25 @@ body {
     display: flex;
     justify-content: center;
 }
+
+
+.personal-holder {
+    display: flex;
+    justify-content: center;
+}
+
+.personal {
+    width: 100%;
+    margin-right: center;
+    margin-top: -750px;
+}
+
+.personal-image {
+    display: flex;
+    justify-content: center;
+}
+
+.personal-title {
+    display: flex;
+    justify-content: center;
+}
